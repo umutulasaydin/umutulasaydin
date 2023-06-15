@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello Everyone!
+
+Welcome to my page! I'm Umut, Computer Engineer from Istanbul, Turkey.
+
 ## Things I code with
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
